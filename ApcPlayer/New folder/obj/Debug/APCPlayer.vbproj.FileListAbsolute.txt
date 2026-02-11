@@ -1,0 +1,3 @@
+E:\STASystem 2022\STA 6.0.0.8\PUNBUS.root\PUNBUS\Project\STA\VS2013 6.0.0.8\ApcPlayer\obj\Debug\APCPlayer.ApcPlay.resources
+E:\STASystem 2022\STA 6.0.0.8\PUNBUS.root\PUNBUS\Project\STA\VS2013 6.0.0.8\ApcPlayer\obj\Debug\APCPlayer.Resources.resources
+E:\STASystem 2022\STA 6.0.0.8\PUNBUS.root\PUNBUS\Project\STA\VS2013 6.0.0.8\ApcPlayer\obj\Debug\APCPlayer.vbproj.GenerateResource.Cache
